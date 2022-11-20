@@ -1,0 +1,626 @@
+,level_0,last_name,Player,index,Base Price,TYPE,COST IN ₹ (CR.),Cost IN $ (000),2021 Squad,Team,status,retention,base_price_unit,base_price,Player_name,first_name
+0,0,Khan,Rashid Khan,0,0,BOWLER,15.0,1950.0,SRH,Gujarat Titans,sold,Draft Pick,0,0,Rashid_Khan,Rashid
+1,1,Pandya,Hardik Pandya,1,0,ALL-ROUNDER,15.0,1950.0,MI,Gujarat Titans,sold,Draft Pick,0,0,Hardik_Pandya,Hardik
+2,2,Ferguson,Lockie Ferguson,2,2 Cr,BOWLER,10.0,1300.0,KKR,Gujarat Titans,sold,From Auction,Cr,2,Lockie_Ferguson,Lockie
+3,3,Tewatia,Rahul Tewatia,3,40 Lakh,ALL-ROUNDER,9.0,1170.0,RR,Gujarat Titans,sold,From Auction,Lakh,40,Rahul_Tewatia,Rahul
+4,4,Gill,Shubman Gill,4,0,BATTER,8.0,1040.0,KKR,Gujarat Titans,sold,Draft Pick,0,0,Shubman_Gill,Shubman
+5,5,Shami,Mohammad Shami,5,2 Cr,BOWLER,6.25,812.5,PBKS,Gujarat Titans,sold,From Auction,Cr,2,Mohammad_Shami,Mohammad
+6,6,Dayal,Yash Dayal,6,20 Lakh,BOWLER,3.2,416.0,Not Participated,Gujarat Titans,sold,From Auction,Lakh,20,Yash_Dayal,Yash
+7,7,Miller,David Miller,7,1 Cr,BATTER,3.0,390.0,RR,Gujarat Titans,sold,From Auction,Cr,1,David_Miller,David
+8,8,Sai_Kishore,R. Sai Kishore,8,20 Lakh,BOWLER,3.0,390.0,CSK,Gujarat Titans,sold,From Auction,Lakh,20,R._Sai_Kishore,R.
+9,9,Sadarangani,Abhinav Sadarangani,9,20 Lakh,BATTER,2.6,338.0,Not Participated,Gujarat Titans,sold,From Auction,Lakh,20,Abhinav_Sadarangani,Abhinav
+10,10,Wade,Matthew Wade,10,2 Cr,WICKETKEEPER,2.4,312.0,Not Participated,Gujarat Titans,sold,From Auction,Cr,2,Matthew_Wade,Matthew
+11,11,Joseph,Alzarri Joseph,11,75 Lakh,BOWLER,2.4,312.0,Not Participated,Gujarat Titans,sold,From Auction,Lakh,75,Alzarri_Joseph,Alzarri
+12,12,Roy,Jason Roy,12,2 Cr,BATTER,2.0,260.0,SRH,Gujarat Titans,sold,From Auction,Cr,2,Jason_Roy,Jason
+13,13,Saha,Wriddhiman Saha,13,1 Cr,WICKETKEEPER,1.9,247.0,SRH,Gujarat Titans,sold,From Auction,Cr,1,Wriddhiman_Saha,Wriddhiman
+14,14,Yadav,Jayant Yadav,14,1 Cr,ALL-ROUNDER,1.7,221.0,MI,Gujarat Titans,sold,From Auction,Cr,1,Jayant_Yadav,Jayant
+15,15,Shankar,Vijay Shankar,15,50 Lakh,ALL-ROUNDER,1.4,182.0,SRH,Gujarat Titans,sold,From Auction,Lakh,50,Vijay_Shankar,Vijay
+16,16,Drakes,Dominic Drakes,16,75 Lakh,ALL-ROUNDER,1.1,143.0,CSK,Gujarat Titans,sold,From Auction,Lakh,75,Dominic_Drakes,Dominic
+17,17,Aaron,Varun Aaron,17,50 Lakh,BOWLER,0.5,65.0,Not Participated,Gujarat Titans,sold,From Auction,Lakh,50,Varun_Aaron,Varun
+18,18,Singh,Gurkeerat Singh,18,50 Lakh,ALL-ROUNDER,0.5,65.0,KKR,Gujarat Titans,sold,From Auction,Lakh,50,Gurkeerat_Singh,Gurkeerat
+19,19,Ahmad,Noor Ahmad,19,30 Lakh,BOWLER,0.3,39.0,Not Participated,Gujarat Titans,sold,From Auction,Lakh,30,Noor_Ahmad,Noor
+20,20,Nalkande,Darshan Nalkande,20,20 Lakh,ALL-ROUNDER,0.2,26.0,PBKS,Gujarat Titans,sold,From Auction,Lakh,20,Darshan_Nalkande,Darshan
+21,21,Sangwan,Pradeep Sangwan,21,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Gujarat Titans,sold,From Auction,Lakh,20,Pradeep_Sangwan,Pradeep
+22,22,Jadeja,Ravindra Jadeja,22,Retained,ALL-ROUNDER,16.0,2080.0,CSK,Chennai Super Kings,sold,Retained,Retained,0,Ravindra_Jadeja,Ravindra
+23,23,Chahar,Deepak Chahar,23,2 Cr,BOWLER,14.0,1820.0,CSK,Chennai Super Kings,sold,From Auction,Cr,2,Deepak_Chahar,Deepak
+24,24,Dhoni,MS Dhoni,24,Retained,WICKETKEEPER,12.0,1560.0,CSK,Chennai Super Kings,sold,Retained,Retained,0,MS_Dhoni,MS
+25,25,Ali,Moeen Ali,25,Retained,ALL-ROUNDER,8.0,1040.0,CSK,Chennai Super Kings,sold,Retained,Retained,0,Moeen_Ali,Moeen
+26,26,Rayudu,Ambati Rayudu,26,2 Cr,WICKETKEEPER,6.75,877.5,CSK,Chennai Super Kings,sold,From Auction,Cr,2,Ambati_Rayudu,Ambati
+27,27,Gaikwad,Ruturaj Gaikwad,27,Retained,BATTER,6.0,780.0,CSK,Chennai Super Kings,sold,Retained,Retained,0,Ruturaj_Gaikwad,Ruturaj
+28,28,Bravo,Dwayne Bravo,28,2 Cr,ALL-ROUNDER,4.4,572.0,CSK,Chennai Super Kings,sold,From Auction,Cr,2,Dwayne_Bravo,Dwayne
+29,29,Dube,Shivam Dube,29,50 Lakh,ALL-ROUNDER,4.0,520.0,RR,Chennai Super Kings,sold,From Auction,Lakh,50,Shivam_Dube,Shivam
+30,30,Jordan,Chris Jordan,30,2 Cr,ALL-ROUNDER,3.6,468.0,PBKS,Chennai Super Kings,sold,From Auction,Cr,2,Chris_Jordan,Chris
+31,31,Uthappa,Robin Uthappa,31,2 Cr,BATTER,2.0,260.0,CSK,Chennai Super Kings,sold,From Auction,Cr,2,Robin_Uthappa,Robin
+32,32,Santner,Mitchell Santner,32,1 Cr,ALL-ROUNDER,1.9,247.0,CSK,Chennai Super Kings,sold,From Auction,Cr,1,Mitchell_Santner,Mitchell
+33,33,Milne,Adam Milne,33,1.5 Cr,BOWLER,1.9,247.0,MI,Chennai Super Kings,sold,From Auction,Cr,1.5,Adam_Milne,Adam
+34,34,Hangargekar,Rajvardhan Hangargekar,34,30 Lakh,ALL-ROUNDER,1.5,195.0,Not Participated,Chennai Super Kings,sold,From Auction,Lakh,30,Rajvardhan_Hangargekar,Rajvardhan
+35,35,Solanki,Prashant Solanki,35,20 Lakh,BOWLER,1.2,156.0,Not Participated,Chennai Super Kings,sold,From Auction,Lakh,20,Prashant_Solanki,Prashant
+36,36,Conway,Devon Conway,36,1 Cr,BATTER,1.0,130.0,Not Participated,Chennai Super Kings,sold,From Auction,Cr,1,Devon_Conway,Devon
+37,37,Theekshana,Maheesh Theekshana,37,50 Lakh,BOWLER,0.7,91.0,Not Participated,Chennai Super Kings,sold,From Auction,Lakh,50,Maheesh_Theekshana,Maheesh
+38,38,Pretorius,Dwaine Pretorius,38,50 Lakh,ALL-ROUNDER,0.5,65.0,Not Participated,Chennai Super Kings,sold,From Auction,Lakh,50,Dwaine_Pretorius,Dwaine
+39,39,Varma,K.Bhagath Varma,39,20 Lakh,ALL-ROUNDER,0.2,26.0,CSK,Chennai Super Kings,sold,From Auction,Lakh,20,K.Bhagath_Varma,K.Bhagath
+40,40,Singh,Simarjeet Singh,40,20 Lakh,BOWLER,0.2,26.0,MI,Chennai Super Kings,sold,From Auction,Lakh,20,Simarjeet_Singh,Simarjeet
+41,41,Jagadeesan,N. Jagadeesan,41,20 Lakh,WICKETKEEPER,0.2,26.0,CSK,Chennai Super Kings,sold,From Auction,Lakh,20,N._Jagadeesan,N.
+42,42,Nishaanth,C.Hari Nishaanth,42,20 Lakh,BATTER,0.2,26.0,CSK,Chennai Super Kings,sold,From Auction,Lakh,20,C.Hari_Nishaanth,C.Hari
+43,43,Asif,K.M. Asif,43,20 Lakh,BOWLER,0.2,26.0,CSK,Chennai Super Kings,sold,From Auction,Lakh,20,K.M._Asif,K.M.
+44,44,Deshpande,Tushar Deshpande,44,20 Lakh,BOWLER,0.2,26.0,Not Participated,Chennai Super Kings,sold,From Auction,Lakh,20,Tushar_Deshpande,Tushar
+45,45,Senapati,Subhranshu Senapati,45,20 Lakh,BATTER,0.2,26.0,Not Participated,Chennai Super Kings,sold,From Auction,Lakh,20,Subhranshu_Senapati,Subhranshu
+46,46,Choudhary,Mukesh Choudhary,46,20 Lakh,BOWLER,0.2,26.0,Not Participated,Chennai Super Kings,sold,From Auction,Lakh,20,Mukesh_Choudhary,Mukesh
+47,47,Pant,Rishabh Pant,47,Retained,WICKETKEEPER,16.0,2080.0,DC,Delhi Capitals,sold,Retained,Retained,0,Rishabh_Pant,Rishabh
+48,48,Thakur,Shardul Thakur,48,2 Cr,BOWLER,10.75,1397.5,CSK,Delhi Capitals,sold,From Auction,Cr,2,Shardul_Thakur,Shardul
+49,49,Patel,Axar Patel,49,Retained,ALL-ROUNDER,9.0,1170.0,DC,Delhi Capitals,sold,Retained,Retained,0,Axar_Patel,Axar
+50,50,Shaw,Prithvi Shaw,50,Retained,BATTER,7.5,975.0,DC,Delhi Capitals,sold,Retained,Retained,0,Prithvi_Shaw,Prithvi
+51,51,Marsh,Mitchell Marsh,51,2 Cr,ALL-ROUNDER,6.5,845.0,Not Participated,Delhi Capitals,sold,From Auction,Cr,2,Mitchell_Marsh,Mitchell
+52,52,Nortje,Anrich Nortje,52,Retained,BOWLER,6.5,845.0,DC,Delhi Capitals,sold,Retained,Retained,0,Anrich_Nortje,Anrich
+53,53,Warner,David Warner,53,2 Cr,BATTER,6.25,812.5,SRH,Delhi Capitals,sold,From Auction,Cr,2,David_Warner,David
+54,54,Khaleel_Ahmed,Syed Khaleel Ahmed,54,50 Lakh,BOWLER,5.25,682.5,SRH,Delhi Capitals,sold,From Auction,Lakh,50,Syed_Khaleel_Ahmed,Syed
+55,55,Sakariya,Chetan Sakariya,55,50 Lakh,BOWLER,4.2,546.0,RR,Delhi Capitals,sold,From Auction,Lakh,50,Chetan_Sakariya,Chetan
+56,56,Powell,Rovman Powell,56,75 Lakh,BATTER,2.8,364.0,Not Participated,Delhi Capitals,sold,From Auction,Lakh,75,Rovman_Powell,Rovman
+57,57,Bharat,K.S. Bharat,57,20 Lakh,WICKETKEEPER,2.0,260.0,RCB,Delhi Capitals,sold,From Auction,Lakh,20,K.S._Bharat,K.S.
+58,58,Rahman,Mustafizur Rahman,58,2 Cr,BOWLER,2.0,260.0,RR,Delhi Capitals,sold,From Auction,Cr,2,Mustafizur_Rahman,Mustafizur
+59,59,Yadav,Kuldeep Yadav,59,1 Cr,BOWLER,2.0,260.0,KKR,Delhi Capitals,sold,From Auction,Cr,1,Kuldeep_Yadav,Kuldeep
+60,60,Nagarkoti,Kamlesh Nagarkoti,60,40 Lakh,ALL-ROUNDER,1.1,143.0,KKR,Delhi Capitals,sold,From Auction,Lakh,40,Kamlesh_Nagarkoti,Kamlesh
+61,61,Singh,Mandeep Singh,61,50 Lakh,BATTER,1.1,143.0,PBKS,Delhi Capitals,sold,From Auction,Lakh,50,Mandeep_Singh,Mandeep
+63,63,Seifert,Tim Seifert,63,50 Lakh,WICKETKEEPER,0.5,65.0,KKR,Delhi Capitals,sold,From Auction,Lakh,50,Tim_Seifert,Tim
+64,64,Dubey,Pravin Dubey,64,20 Lakh,ALL-ROUNDER,0.5,65.0,DC,Delhi Capitals,sold,From Auction,Lakh,20,Pravin_Dubey,Pravin
+65,65,Ngidi,Lungisani Ngidi,65,50 Lakh,BOWLER,0.5,65.0,CSK,Delhi Capitals,sold,From Auction,Lakh,50,Lungisani_Ngidi,Lungisani
+66,66,Dhull,Yash Dhull,66,20 Lakh,ALL-ROUNDER,0.5,65.0,Not Participated,Delhi Capitals,sold,From Auction,Lakh,20,Yash_Dhull,Yash
+67,67,Hebbar,Ashwin Hebbar,67,20 Lakh,BATTER,0.2,26.0,Not Participated,Delhi Capitals,sold,From Auction,Lakh,20,Ashwin_Hebbar,Ashwin
+68,68,Khan,Sarfaraz Khan,68,20 Lakh,ALL-ROUNDER,0.2,26.0,PBKS,Delhi Capitals,sold,From Auction,Lakh,20,Sarfaraz_Khan,Sarfaraz
+69,69,Patel,Ripal Patel,69,20 Lakh,ALL-ROUNDER,0.2,26.0,DC,Delhi Capitals,sold,From Auction,Lakh,20,Ripal_Patel,Ripal
+70,70,Ostwal,Vicky Ostwal,70,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Delhi Capitals,sold,From Auction,Lakh,20,Vicky_Ostwal,Vicky
+71,71,Iyer,Shreyas Iyer,71,2 Cr,BATTER,12.25,1592.5,DC,Kolkata Knight Riders,sold,From Auction,Cr,2,Shreyas_Iyer,Shreyas
+72,72,Russell,Andre Russell,72,Retained,ALL-ROUNDER,12.0,1560.0,KKR,Kolkata Knight Riders,sold,Retained,Retained,0,Andre_Russell,Andre
+73,73,Rana,Nitish Rana,73,1 Cr,ALL-ROUNDER,8.0,1040.0,KKR,Kolkata Knight Riders,sold,From Auction,Cr,1,Nitish_Rana,Nitish
+74,74,Iyer,Venkatesh Iyer,74,Retained,ALL-ROUNDER,8.0,1040.0,KKR,Kolkata Knight Riders,sold,Retained,Retained,0,Venkatesh_Iyer,Venkatesh
+75,75,Chakaravarthy,Varun Chakaravarthy,75,Retained,BOWLER,8.0,1040.0,KKR,Kolkata Knight Riders,sold,Retained,Retained,0,Varun_Chakaravarthy,Varun
+76,76,Cummins,Pat Cummins,76,2 Cr,ALL-ROUNDER,7.25,942.5,KKR,Kolkata Knight Riders,sold,From Auction,Cr,2,Pat_Cummins,Pat
+77,77,Mavi,Shivam Mavi,77,40 Lakh,ALL-ROUNDER,7.25,942.5,KKR,Kolkata Knight Riders,sold,From Auction,Lakh,40,Shivam_Mavi,Shivam
+78,78,Narine,Sunil Narine,78,Retained,ALL-ROUNDER,6.0,780.0,KKR,Kolkata Knight Riders,sold,Retained,Retained,0,Sunil_Narine,Sunil
+79,79,Billings,Sam Billings,79,2 Cr,WICKETKEEPER,2.0,260.0,DC,Kolkata Knight Riders,sold,From Auction,Cr,2,Sam_Billings,Sam
+80,80,Yadav,Umesh Yadav,80,2 Cr,BOWLER,2.0,260.0,DC,Kolkata Knight Riders,sold,From Auction,Cr,2,Umesh_Yadav,Umesh
+81,81,Southee,Tim Southee,81,1.5 Cr,BOWLER,1.5,195.0,KKR,Kolkata Knight Riders,sold,From Auction,Cr,1.5,Tim_Southee,Tim
+82,82,Hales,Alex Hales,82,1.5 Cr,BATTER,1.5,195.0,Not Participated,Kolkata Knight Riders,sold,From Auction,Cr,1.5,Alex_Hales,Alex
+83,83,Rahane,Ajinkya Rahane,83,1 Cr,BATTER,1.0,130.0,DC,Kolkata Knight Riders,sold,From Auction,Cr,1,Ajinkya_Rahane,Ajinkya
+84,84,Nabi,Mohammad Nabi,84,1 Cr,ALL-ROUNDER,1.0,130.0,SRH,Kolkata Knight Riders,sold,From Auction,Cr,1,Mohammad_Nabi,Mohammad
+85,85,Jackson,Sheldon Jackson,85,30 Lakh,WICKETKEEPER,0.6,78.0,KKR,Kolkata Knight Riders,sold,From Auction,Lakh,30,Sheldon_Jackson,Sheldon
+86,86,Singh,Rinku Singh,86,20 Lakh,BATTER,0.55,71.5,Not Participated,Kolkata Knight Riders,sold,From Auction,Lakh,20,Rinku_Singh,Rinku
+87,87,Sharma,Ashok Sharma,87,20 Lakh,BOWLER,0.55,71.5,Not Participated,Kolkata Knight Riders,sold,From Auction,Lakh,20,Ashok_Sharma,Ashok
+88,88,Karunaratne,Chamika Karunaratne,88,50 Lakh,ALL-ROUNDER,0.5,65.0,Not Participated,Kolkata Knight Riders,sold,From Auction,Lakh,50,Chamika_Karunaratne,Chamika
+89,89,Tomar,Abhijeet Tomar,89,20 Lakh,BATTER,0.4,52.0,Not Participated,Kolkata Knight Riders,sold,From Auction,Lakh,20,Abhijeet_Tomar,Abhijeet
+90,90,Dar,Rasikh Dar,90,20 Lakh,BOWLER,0.2,26.0,Not Participated,Kolkata Knight Riders,sold,From Auction,Lakh,20,Rasikh_Dar,Rasikh
+91,91,Roy,Anukul Roy,91,20 Lakh,ALL-ROUNDER,0.2,26.0,MI,Kolkata Knight Riders,sold,From Auction,Lakh,20,Anukul_Roy,Anukul
+92,92,Indrajith,Baba Indrajith,92,20 Lakh,WICKETKEEPER,0.2,26.0,Not Participated,Kolkata Knight Riders,sold,From Auction,Lakh,20,Baba_Indrajith,Baba
+93,93,Khan,Aman Khan,93,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Kolkata Knight Riders,sold,From Auction,Lakh,20,Aman_Khan,Aman
+94,94,Kumar,Ramesh Kumar,94,20 Lakh,BATTER,0.2,26.0,Not Participated,Kolkata Knight Riders,sold,From Auction,Lakh,20,Ramesh_Kumar,Ramesh
+95,95,Singh,Pratham Singh,95,20 Lakh,BATTER,0.2,26.0,Not Participated,Kolkata Knight Riders,sold,From Auction,Lakh,20,Pratham_Singh,Pratham
+96,96,Agarwal,Mayank Agarwal,96,Retained,BATTER,12.0,1560.0,PBKS,Punjab Kings,sold,Retained,Retained,0,Mayank_Agarwal,Mayank
+97,97,Livingstone,Liam Livingstone,97,1 Cr,ALL-ROUNDER,11.5,1495.0,RR,Punjab Kings,sold,From Auction,Cr,1,Liam_Livingstone,Liam
+98,98,Rabada,Kagiso Rabada,98,2 Cr,BOWLER,9.25,1202.5,DC,Punjab Kings,sold,From Auction,Cr,2,Kagiso_Rabada,Kagiso
+99,99,Khan,Shahrukh Khan,99,40 Lakh,ALL-ROUNDER,9.0,1170.0,PBKS,Punjab Kings,sold,From Auction,Lakh,40,Shahrukh_Khan,Shahrukh
+100,100,Dhawan,Shikhar Dhawan,100,2 Cr,BATTER,8.25,1072.5,DC,Punjab Kings,sold,From Auction,Cr,2,Shikhar_Dhawan,Shikhar
+101,101,Bairstow,Jonny Bairstow,101,1.5 Cr,WICKETKEEPER,6.75,877.5,SRH,Punjab Kings,sold,From Auction,Cr,1.5,Jonny_Bairstow,Jonny
+102,102,Smith,Odean Smith,102,1 Cr,ALL-ROUNDER,6.0,780.0,Not Participated,Punjab Kings,sold,From Auction,Cr,1,Odean_Smith,Odean
+103,103,Chahar,Rahul Chahar,103,75 Lakh,BOWLER,5.25,682.5,MI,Punjab Kings,sold,From Auction,Lakh,75,Rahul_Chahar,Rahul
+104,104,Singh,Arshdeep Singh,104,Retained,BOWLER,4.0,520.0,PBKS,Punjab Kings,sold,Retained,Retained,0,Arshdeep_Singh,Arshdeep
+105,105,Brar,Harpreet Brar,105,20 Lakh,ALL-ROUNDER,3.8,494.0,PBKS,Punjab Kings,sold,From Auction,Lakh,20,Harpreet_Brar,Harpreet
+106,106,Arora,Vaibhav Arora,106,20 Lakh,BOWLER,2.0,260.0,KKR,Punjab Kings,sold,From Auction,Lakh,20,Vaibhav_Arora,Vaibhav
+107,107,Angad_Bawa,Raj Angad Bawa,107,20 Lakh,ALL-ROUNDER,2.0,260.0,Not Participated,Punjab Kings,sold,From Auction,Lakh,20,Raj_Angad_Bawa,Raj
+108,108,Ellis,Nathan Ellis,108,75 Lakh,BOWLER,0.75,97.5,PBKS,Punjab Kings,sold,From Auction,Lakh,75,Nathan_Ellis,Nathan
+109,109,Singh,Prabhsimran Singh,109,20 Lakh,WICKETKEEPER,0.6,78.0,PBKS,Punjab Kings,sold,From Auction,Lakh,20,Prabhsimran_Singh,Prabhsimran
+110,110,Dhawan,Rishi Dhawan,110,50 Lakh,ALL-ROUNDER,0.55,71.5,Not Participated,Punjab Kings,sold,From Auction,Lakh,50,Rishi_Dhawan,Rishi
+111,111,Sharma,Sandeep Sharma,111,50 Lakh,BOWLER,0.5,65.0,SRH,Punjab Kings,sold,From Auction,Lakh,50,Sandeep_Sharma,Sandeep
+112,112,Rajapaksa,Bhanuka Rajapaksa,112,50 Lakh,BATTER,0.5,65.0,Not Participated,Punjab Kings,sold,From Auction,Lakh,50,Bhanuka_Rajapaksa,Bhanuka
+113,113,Howell,Benny Howell,113,40 Lakh,ALL-ROUNDER,0.4,52.0,Not Participated,Punjab Kings,sold,From Auction,Lakh,40,Benny_Howell,Benny
+114,114,Porel,Ishan Porel,114,20 Lakh,BOWLER,0.25,32.5,PBKS,Punjab Kings,sold,From Auction,Lakh,20,Ishan_Porel,Ishan
+115,115,Mankad,Prerak Mankad,115,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Punjab Kings,sold,From Auction,Lakh,20,Prerak_Mankad,Prerak
+116,116,Patel,Ansh Patel,116,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Punjab Kings,sold,From Auction,Lakh,20,Ansh_Patel,Ansh
+117,117,Sharma,Jitesh Sharma,117,20 Lakh,WICKETKEEPER,0.2,26.0,Not Participated,Punjab Kings,sold,From Auction,Lakh,20,Jitesh_Sharma,Jitesh
+118,118,Chatterjee,Writtick Chatterjee,118,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Punjab Kings,sold,From Auction,Lakh,20,Writtick_Chatterjee,Writtick
+119,119,Taide,Atharva Taide,119,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Punjab Kings,sold,From Auction,Lakh,20,Atharva_Taide,Atharva
+120,120,Dhanda,Baltej Dhanda,120,20 Lakh,BOWLER,0.2,26.0,Not Participated,Punjab Kings,sold,From Auction,Lakh,20,Baltej_Dhanda,Baltej
+121,121,Rahul,KL Rahul,121,0,WICKETKEEPER,17.0,2210.0,PBKS,Lucknow Super Giants,sold,Draft Pick,0,0,KL_Rahul,KL
+122,122,Khan,Avesh Khan,122,20 Lakh,BOWLER,10.0,1300.0,DC,Lucknow Super Giants,sold,From Auction,Lakh,20,Avesh_Khan,Avesh
+123,123,Stoinis,Marcus Stoinis,123,0,ALL-ROUNDER,9.2,1196.0,DC,Lucknow Super Giants,sold,Draft Pick,0,0,Marcus_Stoinis,Marcus
+124,124,Holder,Jason Holder,124,1.5 Cr,ALL-ROUNDER,8.75,1137.5,SRH,Lucknow Super Giants,sold,From Auction,Cr,1.5,Jason_Holder,Jason
+125,125,Pandya,Krunal Pandya,125,2 Cr,ALL-ROUNDER,8.25,1072.5,MI,Lucknow Super Giants,sold,From Auction,Cr,2,Krunal_Pandya,Krunal
+126,126,Wood,Mark Wood,126,2 Cr,BOWLER,7.5,975.0,Not Participated,Lucknow Super Giants,sold,From Auction,Cr,2,Mark_Wood,Mark
+127,127,De_Kock,Quinton De Kock,127,2 Cr,WICKETKEEPER,6.75,877.5,MI,Lucknow Super Giants,sold,From Auction,Cr,2,Quinton_De_Kock,Quinton
+128,128,Hooda,Deepak Hooda,128,75 Lakh,ALL-ROUNDER,5.75,747.5,PBKS,Lucknow Super Giants,sold,From Auction,Lakh,75,Deepak_Hooda,Deepak
+129,129,Pandey,Manish Pandey,129,1 Cr,BATTER,4.6,598.0,SRH,Lucknow Super Giants,sold,From Auction,Cr,1,Manish_Pandey,Manish
+130,130,Bishnoi,Ravi Bishnoi,130,0,BOWLER,4.0,520.0,PBKS,Lucknow Super Giants,sold,Draft Pick,0,0,Ravi_Bishnoi,Ravi
+131,131,Chameera,Dushmanta Chameera,131,50 Lakh,BOWLER,2.0,260.0,Not Participated,Lucknow Super Giants,sold,From Auction,Lakh,50,Dushmanta_Chameera,Dushmanta
+132,132,Lewis,Evin Lewis,132,2 Cr,BATTER,2.0,260.0,RR,Lucknow Super Giants,sold,From Auction,Cr,2,Evin_Lewis,Evin
+133,133,Gowtham,K. Gowtham,133,50 Lakh,ALL-ROUNDER,0.9,117.0,CSK,Lucknow Super Giants,sold,From Auction,Lakh,50,K._Gowtham,K.
+134,134,Mayers,Kyle Mayers,134,50 Lakh,ALL-ROUNDER,0.5,65.0,Not Participated,Lucknow Super Giants,sold,From Auction,Lakh,50,Kyle_Mayers,Kyle
+135,135,Nadeem,Shahbaz Nadeem,135,50 Lakh,BOWLER,0.5,65.0,SRH,Lucknow Super Giants,sold,From Auction,Lakh,50,Shahbaz_Nadeem,Shahbaz
+136,136,Singh_Rajpoot,Ankit Singh Rajpoot,136,20 Lakh,BOWLER,0.5,65.0,Not Participated,Lucknow Super Giants,sold,From Auction,Lakh,20,Ankit_Singh_Rajpoot,Ankit
+137,137,Vohra,Manan Vohra,137,20 Lakh,BATTER,0.2,26.0,RR,Lucknow Super Giants,sold,From Auction,Lakh,20,Manan_Vohra,Manan
+138,138,Sai_Sudharsan,B. Sai Sudharsan,138,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Lucknow Super Giants,sold,From Auction,Lakh,20,B._Sai_Sudharsan,B.
+139,139,Sharma,Karan Sharma,139,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Lucknow Super Giants,sold,From Auction,Lakh,20,Karan_Sharma,Karan
+140,140,Badoni,Ayush Badoni,140,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Lucknow Super Giants,sold,From Auction,Lakh,20,Ayush_Badoni,Ayush
+141,141,Khan,Mohsin Khan,141,20 Lakh,BOWLER,0.2,26.0,MI,Lucknow Super Giants,sold,From Auction,Lakh,20,Mohsin_Khan,Mohsin
+142,142,Yadav,Mayank Yadav,142,20 Lakh,BOWLER,0.2,26.0,Not Participated,Lucknow Super Giants,sold,From Auction,Lakh,20,Mayank_Yadav,Mayank
+143,143,Sharma,Rohit Sharma,143,Retained,BATTER,16.0,2080.0,MI,Mumbai Indians,sold,Retained,Retained,0,Rohit_Sharma,Rohit
+144,144,Kishan,Ishan Kishan,144,2 Cr,WICKETKEEPER,15.25,1982.5,MI,Mumbai Indians,sold,From Auction,Cr,2,Ishan_Kishan,Ishan
+145,145,Bumrah,Jasprit Bumrah,145,Retained,BOWLER,12.0,1560.0,MI,Mumbai Indians,sold,Retained,Retained,0,Jasprit_Bumrah,Jasprit
+146,146,David,Tim David,146,40 Lakh,ALL-ROUNDER,8.25,1072.5,RCB,Mumbai Indians,sold,From Auction,Lakh,40,Tim_David,Tim
+147,147,Archer,Jofra Archer,147,2 Cr,ALL-ROUNDER,8.0,1040.0,RR,Mumbai Indians,sold,From Auction,Cr,2,Jofra_Archer,Jofra
+148,148,Yadav,Suryakumar Yadav,148,Retained,BATTER,8.0,1040.0,MI,Mumbai Indians,sold,Retained,Retained,0,Suryakumar_Yadav,Suryakumar
+149,149,Pollard,Kieron Pollard,149,Retained,ALL-ROUNDER,6.0,780.0,MI,Mumbai Indians,sold,Retained,Retained,0,Kieron_Pollard,Kieron
+150,150,Brevis,Dewald Brevis,150,20 Lakh,BATTER,3.0,390.0,Not Participated,Mumbai Indians,sold,From Auction,Lakh,20,Dewald_Brevis,Dewald
+151,151,Sams,Daniel Sams,151,1 Cr,ALL-ROUNDER,2.6,338.0,RCB,Mumbai Indians,sold,From Auction,Cr,1,Daniel_Sams,Daniel
+152,152,Tilak_Varma,N. Tilak Varma,152,20 Lakh,ALL-ROUNDER,1.7,221.0,Not Participated,Mumbai Indians,sold,From Auction,Lakh,20,N._Tilak_Varma,N.
+153,153,Ashwin,Murugan Ashwin,153,20 Lakh,BOWLER,1.6,208.0,PBKS,Mumbai Indians,sold,From Auction,Lakh,20,Murugan_Ashwin,Murugan
+154,154,Mills,Tymal Mills,154,1 Cr,BOWLER,1.5,195.0,Not Participated,Mumbai Indians,sold,From Auction,Cr,1,Tymal_Mills,Tymal
+155,155,Unadkat,Jaydev Unadkat,155,75 Lakh,BOWLER,1.3,169.0,RR,Mumbai Indians,sold,From Auction,Lakh,75,Jaydev_Unadkat,Jaydev
+156,156,Meredith,Riley Meredith,156,1 Cr,BOWLER,1.0,130.0,PBKS,Mumbai Indians,sold,From Auction,Cr,1,Riley_Meredith,Riley
+157,157,Allen,Fabian Allen,157,75 Lakh,ALL-ROUNDER,0.75,97.5,Not Participated,Mumbai Indians,sold,From Auction,Lakh,75,Fabian_Allen,Fabian
+158,158,Markande,Mayank Markande,158,50 Lakh,BOWLER,0.65,84.5,RR,Mumbai Indians,sold,From Auction,Lakh,50,Mayank_Markande,Mayank
+159,159,Yadav,Sanjay Yadav,159,20 Lakh,ALL-ROUNDER,0.5,65.0,Not Participated,Mumbai Indians,sold,From Auction,Lakh,20,Sanjay_Yadav,Sanjay
+160,160,Tendulkar,Arjun Tendulkar,160,20 Lakh,ALL-ROUNDER,0.3,39.0,MI,Mumbai Indians,sold,From Auction,Lakh,20,Arjun_Tendulkar,Arjun
+161,161,Thampi,Basil Thampi,161,30 Lakh,BOWLER,0.3,39.0,SRH,Mumbai Indians,sold,From Auction,Lakh,30,Basil_Thampi,Basil
+162,162,Singh,Anmolpreet Singh,162,20 Lakh,BATTER,0.2,26.0,MI,Mumbai Indians,sold,From Auction,Lakh,20,Anmolpreet_Singh,Anmolpreet
+163,163,Juyal,Aryan Juyal,163,20 Lakh,WICKETKEEPER,0.2,26.0,Not Participated,Mumbai Indians,sold,From Auction,Lakh,20,Aryan_Juyal,Aryan
+164,164,Singh,Ramandeep Singh,164,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Mumbai Indians,sold,From Auction,Lakh,20,Ramandeep_Singh,Ramandeep
+165,165,Buddhi,Rahul Buddhi,165,20 Lakh,BATTER,0.2,26.0,Not Participated,Mumbai Indians,sold,From Auction,Lakh,20,Rahul_Buddhi,Rahul
+166,166,Shokeen,Hrithik Shokeen,166,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Mumbai Indians,sold,From Auction,Lakh,20,Hrithik_Shokeen,Hrithik
+167,167,Arshad_Khan,Mohd. Arshad Khan,167,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Mumbai Indians,sold,From Auction,Lakh,20,Mohd._Arshad_Khan,Mohd.
+168,168,Kohli,Virat Kohli,168,Retained,BATTER,15.0,1950.0,RCB,Royal Challengers Bangalore,sold,Retained,Retained,0,Virat_Kohli,Virat
+169,169,Maxwell,Glenn Maxwell,169,Retained,ALL-ROUNDER,11.0,1430.0,RCB,Royal Challengers Bangalore,sold,Retained,Retained,0,Glenn_Maxwell,Glenn
+170,170,Hasaranga,Wanindu Hasaranga,170,1 Cr,ALL-ROUNDER,10.75,1397.5,RCB,Royal Challengers Bangalore,sold,From Auction,Cr,1,Wanindu_Hasaranga,Wanindu
+171,171,Patel,Harshal Patel,171,2 Cr,ALL-ROUNDER,10.75,1397.5,RCB,Royal Challengers Bangalore,sold,From Auction,Cr,2,Harshal_Patel,Harshal
+172,172,Hazlewood,Josh Hazlewood,172,2 Cr,BOWLER,7.75,1007.5,CSK,Royal Challengers Bangalore,sold,From Auction,Cr,2,Josh_Hazlewood,Josh
+173,173,Du_Plessis,Faf Du Plessis,173,2 Cr,BATTER,7.0,910.0,CSK,Royal Challengers Bangalore,sold,From Auction,Cr,2,Faf_Du_Plessis,Faf
+174,174,Siraj,Mohammed Siraj,174,Retained,BOWLER,7.0,910.0,RCB,Royal Challengers Bangalore,sold,Retained,Retained,0,Mohammed_Siraj,Mohammed
+175,175,Karthik,Dinesh Karthik,175,2 Cr,WICKETKEEPER,5.5,715.0,KKR,Royal Challengers Bangalore,sold,From Auction,Cr,2,Dinesh_Karthik,Dinesh
+176,176,Rawat,Anuj Rawat,176,20 Lakh,WICKETKEEPER,3.4,442.0,RR,Royal Challengers Bangalore,sold,From Auction,Lakh,20,Anuj_Rawat,Anuj
+177,177,Ahamad,Shahbaz Ahamad,177,30 Lakh,ALL-ROUNDER,2.4,312.0,RCB,Royal Challengers Bangalore,sold,From Auction,Lakh,30,Shahbaz_Ahamad,Shahbaz
+178,178,Willey,David Willey,178,2 Cr,ALL-ROUNDER,2.0,260.0,Not Participated,Royal Challengers Bangalore,sold,From Auction,Cr,2,David_Willey,David
+179,179,Rutherford,Sherfane Rutherford,179,1 Cr,ALL-ROUNDER,1.0,130.0,Not Participated,Royal Challengers Bangalore,sold,From Auction,Cr,1,Sherfane_Rutherford,Sherfane
+180,180,Lomror,Mahipal Lomror,180,40 Lakh,ALL-ROUNDER,0.95,123.5,RR,Royal Challengers Bangalore,sold,From Auction,Lakh,40,Mahipal_Lomror,Mahipal
+181,181,Allen,Finn Allen,181,50 Lakh,BATTER,0.8,104.0,RCB,Royal Challengers Bangalore,sold,From Auction,Lakh,50,Finn_Allen,Finn
+182,182,Kaul,Siddharth Kaul,182,75 Lakh,BOWLER,0.75,97.5,SRH,Royal Challengers Bangalore,sold,From Auction,Lakh,75,Siddharth_Kaul,Siddharth
+183,183,Behrendorff,Jason Behrendorff,183,75 Lakh,BOWLER,0.75,97.5,CSK,Royal Challengers Bangalore,sold,From Auction,Lakh,75,Jason_Behrendorff,Jason
+184,184,Sharma,Karn Sharma,184,50 Lakh,BOWLER,0.5,65.0,CSK,Royal Challengers Bangalore,sold,From Auction,Lakh,50,Karn_Sharma,Karn
+185,185,Prabhudessai,Suyash Prabhudessai,185,20 Lakh,ALL-ROUNDER,0.3,39.0,RCB,Royal Challengers Bangalore,sold,From Auction,Lakh,20,Suyash_Prabhudessai,Suyash
+186,186,Milind,Chama Milind,186,20 Lakh,BOWLER,0.25,32.5,Not Participated,Royal Challengers Bangalore,sold,From Auction,Lakh,20,Chama_Milind,Chama
+187,187,Deep,Akash Deep,187,20 Lakh,BOWLER,0.2,26.0,RCB,Royal Challengers Bangalore,sold,From Auction,Lakh,20,Akash_Deep,Akash
+188,188,Gautam,Aneeshwar Gautam,188,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Royal Challengers Bangalore,sold,From Auction,Lakh,20,Aneeshwar_Gautam,Aneeshwar
+189,189,Sisodia,Luvnith Sisodia,189,20 Lakh,WICKETKEEPER,0.2,26.0,Not Participated,Royal Challengers Bangalore,sold,From Auction,Lakh,20,Luvnith_Sisodia,Luvnith
+190,190,Samson,Sanju Samson,190,Retained,WICKETKEEPER,14.0,1820.0,RR,Rajasthan Royals,sold,Retained,Retained,0,Sanju_Samson,Sanju
+191,191,Buttler,Jos Buttler,191,Retained,WICKETKEEPER,10.0,1300.0,RR,Rajasthan Royals,sold,Retained,Retained,0,Jos_Buttler,Jos
+192,192,Krishna,Prasidh Krishna,192,1 Cr,BOWLER,10.0,1300.0,KKR,Rajasthan Royals,sold,From Auction,Cr,1,Prasidh_Krishna,Prasidh
+193,193,Hetmyer,Shimron Hetmyer,193,1.5 Cr,BATTER,8.5,1105.0,DC,Rajasthan Royals,sold,From Auction,Cr,1.5,Shimron_Hetmyer,Shimron
+194,194,Boult,Trent Boult,194,2 Cr,BOWLER,8.0,1040.0,MI,Rajasthan Royals,sold,From Auction,Cr,2,Trent_Boult,Trent
+195,195,Padikkal,Devdutt Padikkal,195,2 Cr,BATTER,7.75,1007.5,RCB,Rajasthan Royals,sold,From Auction,Cr,2,Devdutt_Padikkal,Devdutt
+196,196,Chahal,Yuzvendra Chahal,196,2 Cr,BOWLER,6.5,845.0,RCB,Rajasthan Royals,sold,From Auction,Cr,2,Yuzvendra_Chahal,Yuzvendra
+197,197,Ashwin,R. Ashwin,197,2 Cr,ALL-ROUNDER,5.0,650.0,DC,Rajasthan Royals,sold,From Auction,Cr,2,R._Ashwin,R.
+198,198,Jaiswal,Yashaswi Jaiswal,198,Retained,BATTER,4.0,520.0,RR,Rajasthan Royals,sold,Retained,Retained,0,Yashaswi_Jaiswal,Yashaswi
+199,199,Parag,Riyan Parag,199,30 Lakh,ALL-ROUNDER,3.8,494.0,RR,Rajasthan Royals,sold,From Auction,Lakh,30,Riyan_Parag,Riyan
+200,200,Saini,Navdeep Saini,200,75 Lakh,BOWLER,2.6,338.0,RCB,Rajasthan Royals,sold,From Auction,Lakh,75,Navdeep_Saini,Navdeep
+201,201,Coulter-Nile,Nathan Coulter-Nile,201,2 Cr,BOWLER,2.0,260.0,MI,Rajasthan Royals,sold,From Auction,Cr,2,Nathan_Coulter-Nile,Nathan
+202,202,Neesham,James Neesham,202,1.5 Cr,ALL-ROUNDER,1.5,195.0,MI,Rajasthan Royals,sold,From Auction,Cr,1.5,James_Neesham,James
+203,203,Nair,Karun Nair,203,50 Lakh,BATTER,1.4,182.0,KKR,Rajasthan Royals,sold,From Auction,Lakh,50,Karun_Nair,Karun
+204,204,Van_Der_Dussen,Rassie Van Der Dussen,204,1 Cr,BATTER,1.0,130.0,Not Participated,Rajasthan Royals,sold,From Auction,Cr,1,Rassie_Van_Der_Dussen,Rassie
+205,205,Mccoy,Obed Mccoy,205,75 Lakh,BOWLER,0.75,97.5,Not Participated,Rajasthan Royals,sold,From Auction,Lakh,75,Obed_Mccoy,Obed
+206,206,Mitchell,Daryl Mitchell,206,75 Lakh,ALL-ROUNDER,0.75,97.5,Not Participated,Rajasthan Royals,sold,From Auction,Lakh,75,Daryl_Mitchell,Daryl
+207,207,Cariappa,K.C Cariappa,207,20 Lakh,BOWLER,0.3,39.0,RR,Rajasthan Royals,sold,From Auction,Lakh,20,K.C_Cariappa,K.C
+208,208,Singh,Anunay Singh,208,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Rajasthan Royals,sold,From Auction,Lakh,20,Anunay_Singh,Anunay
+209,209,Sen,Kuldeep Sen,209,20 Lakh,BOWLER,0.2,26.0,Not Participated,Rajasthan Royals,sold,From Auction,Lakh,20,Kuldeep_Sen,Kuldeep
+210,210,Jurel,Dhruv Jurel,210,20 Lakh,WICKETKEEPER,0.2,26.0,Not Participated,Rajasthan Royals,sold,From Auction,Lakh,20,Dhruv_Jurel,Dhruv
+211,211,Baroka,Tejas Baroka,211,20 Lakh,BOWLER,0.2,26.0,Not Participated,Rajasthan Royals,sold,From Auction,Lakh,20,Tejas_Baroka,Tejas
+212,212,Yadav,Kuldip Yadav,212,20 Lakh,BOWLER,0.2,26.0,RR,Rajasthan Royals,sold,From Auction,Lakh,20,Kuldip_Yadav,Kuldip
+213,213,Garhwal,Shubham Garhwal,213,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Rajasthan Royals,sold,From Auction,Lakh,20,Shubham_Garhwal,Shubham
+214,214,Williamson,Kane Williamson,214,Retained,BATTER,14.0,1820.0,SRH,Sunrisers Hyderabad,sold,Retained,Retained,0,Kane_Williamson,Kane
+215,215,Pooran,Nicholas Pooran,215,1.5 Cr,WICKETKEEPER,10.75,1397.5,PBKS,Sunrisers Hyderabad,sold,From Auction,Cr,1.5,Nicholas_Pooran,Nicholas
+216,216,Sundar,Washington Sundar,216,1.5 Cr,ALL-ROUNDER,8.75,1137.5,RCB,Sunrisers Hyderabad,sold,From Auction,Cr,1.5,Washington_Sundar,Washington
+217,217,Tripathi,Rahul Tripathi,217,40 Lakh,BATTER,8.5,1105.0,KKR,Sunrisers Hyderabad,sold,From Auction,Lakh,40,Rahul_Tripathi,Rahul
+218,218,Shepherd,Romario Shepherd,218,75 Lakh,ALL-ROUNDER,7.75,1007.5,Not Participated,Sunrisers Hyderabad,sold,From Auction,Lakh,75,Romario_Shepherd,Romario
+219,219,Sharma,Abhishek Sharma,219,20 Lakh,ALL-ROUNDER,6.5,845.0,SRH,Sunrisers Hyderabad,sold,From Auction,Lakh,20,Abhishek_Sharma,Abhishek
+220,220,Jansen,Marco Jansen,220,50 Lakh,ALL-ROUNDER,4.2,546.0,MI,Sunrisers Hyderabad,sold,From Auction,Lakh,50,Marco_Jansen,Marco
+221,221,Kumar,Bhuvneshwar Kumar,221,2 Cr,BOWLER,4.2,546.0,SRH,Sunrisers Hyderabad,sold,From Auction,Cr,2,Bhuvneshwar_Kumar,Bhuvneshwar
+222,222,Natarajan,T. Natarajan,222,1 Cr,BOWLER,4.0,520.0,SRH,Sunrisers Hyderabad,sold,From Auction,Cr,1,T._Natarajan,T.
+223,223,Samad,Abdul Samad,223,Retained,ALL-ROUNDER,4.0,520.0,SRH,Sunrisers Hyderabad,sold,Retained,Retained,0,Abdul_Samad,Abdul
+224,224,Malik,Umran Malik,224,Retained,BOWLER,4.0,520.0,SRH,Sunrisers Hyderabad,sold,Retained,Retained,0,Umran_Malik,Umran
+225,225,Tyagi,Kartik Tyagi,225,20 Lakh,BOWLER,4.0,520.0,RR,Sunrisers Hyderabad,sold,From Auction,Lakh,20,Kartik_Tyagi,Kartik
+226,226,Markram,Aiden Markram,226,1 Cr,BATTER,2.6,338.0,PBKS,Sunrisers Hyderabad,sold,From Auction,Cr,1,Aiden_Markram,Aiden
+227,227,Abbott,Sean Abbott,227,75 Lakh,BOWLER,2.4,312.0,Not Participated,Sunrisers Hyderabad,sold,From Auction,Lakh,75,Sean_Abbott,Sean
+228,228,Phillips,Glenn Phillips,228,1.5 Cr,WICKETKEEPER,1.5,195.0,RR,Sunrisers Hyderabad,sold,From Auction,Cr,1.5,Glenn_Phillips,Glenn
+229,229,Gopal,Shreyas Gopal,229,20 Lakh,BOWLER,0.75,97.5,RR,Sunrisers Hyderabad,sold,From Auction,Lakh,20,Shreyas_Gopal,Shreyas
+230,230,Vinod,Vishnu Vinod,230,20 Lakh,WICKETKEEPER,0.5,65.0,DC,Sunrisers Hyderabad,sold,From Auction,Lakh,20,Vishnu_Vinod,Vishnu
+231,231,Farooqi,Fazalhaq Farooqi,231,50 Lakh,BOWLER,0.5,65.0,Not Participated,Sunrisers Hyderabad,sold,From Auction,Lakh,50,Fazalhaq_Farooqi,Fazalhaq
+232,232,Garg,Priyam Garg,232,20 Lakh,BATTER,0.2,26.0,SRH,Sunrisers Hyderabad,sold,From Auction,Lakh,20,Priyam_Garg,Priyam
+233,233,Samarth,R Samarth,233,20 Lakh,BATTER,0.2,26.0,Not Participated,Sunrisers Hyderabad,sold,From Auction,Lakh,20,R_Samarth,R
+234,234,Suchith,Jagadeesha Suchith,234,20 Lakh,BOWLER,0.2,26.0,SRH,Sunrisers Hyderabad,sold,From Auction,Lakh,20,Jagadeesha_Suchith,Jagadeesha
+235,235,Singh,Shashank Singh,235,20 Lakh,ALL-ROUNDER,0.2,26.0,Not Participated,Sunrisers Hyderabad,sold,From Auction,Lakh,20,Shashank_Singh,Shashank
+236,236,Dubey,Saurabh Dubey,236,20 Lakh,BOWLER,0.2,26.0,Not Participated,Sunrisers Hyderabad,sold,From Auction,Lakh,20,Saurabh_Dubey,Saurabh
+237,237,Raina,Suresh Raina,237,2 Cr,BATTER,0.0,0.0,CSK,Unsold,Unsold,From Auction,Cr,2,Suresh_Raina,Suresh
+238,238,Smith,Steve Smith,238,2 Cr,BATTER,0.0,0.0,DC,Unsold,Unsold,From Auction,Cr,2,Steve_Smith,Steve
+239,239,Al_Hasan,Shakib Al Hasan,239,2 Cr,ALL-ROUNDER,0.0,0.0,KKR,Unsold,Unsold,From Auction,Cr,2,Shakib_Al_Hasan,Shakib
+241,241,Rashid,Adil Rashid,241,2 Cr,BOWLER,0.0,0.0,PBKS,Unsold,Unsold,From Auction,Cr,2,Adil_Rashid,Adil
+242,242,Tahir,Imran Tahir,242,2 Cr,BOWLER,0.0,0.0,CSK,Unsold,Unsold,From Auction,Cr,2,Imran_Tahir,Imran
+243,243,Zadran,Mujeeb Zadran,243,2 Cr,BOWLER,0.0,0.0,SRH,Unsold,Unsold,From Auction,Cr,2,Mujeeb_Zadran,Mujeeb
+244,244,Zampa,Adam Zampa,244,2 Cr,BOWLER,0.0,0.0,RCB,Unsold,Unsold,From Auction,Cr,2,Adam_Zampa,Adam
+245,245,Patidar,Rajat Patidar,245,20 Lakh,BATTER,0.0,0.0,RCB,Unsold,Unsold,From Auction,Lakh,20,Rajat_Patidar,Rajat
+246,246,Azharuddeen,Mohammed Azharuddeen,246,20 Lakh,WICKETKEEPER,0.0,0.0,RCB,Unsold,Unsold,From Auction,Lakh,20,Mohammed_Azharuddeen,Mohammed
+247,247,Solanki,Vishnu Solanki,247,20 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Vishnu_Solanki,Vishnu
+248,248,Lamichhane,Sandeep Lamichhane,248,40 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,40,Sandeep_Lamichhane,Sandeep
+249,249,Siddharth,M. Siddharth,249,20 Lakh,BOWLER,0.0,0.0,DC,Unsold,Unsold,From Auction,Lakh,20,M._Siddharth,M.
+250,250,Finch,Aaron Finch,250,1.5 Cr,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Cr,1.5,Aaron_Finch,Aaron
+251,251,Labuschagne,Marnus Labuschagne,251,1 Cr,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Cr,1,Marnus_Labuschagne,Marnus
+252,252,Malan,Dawid Malan,252,1.5 Cr,BATTER,0.0,0.0,PBKS,Unsold,Unsold,From Auction,Cr,1.5,Dawid_Malan,Dawid
+253,253,Morgan,Eoin Morgan,253,1.5 Cr,BATTER,0.0,0.0,KKR,Unsold,Unsold,From Auction,Cr,1.5,Eoin_Morgan,Eoin
+254,254,Pujara,Cheteshwar Pujara,254,50 Lakh,BATTER,0.0,0.0,CSK,Unsold,Unsold,From Auction,Lakh,50,Cheteshwar_Pujara,Cheteshwar
+255,255,Tiwary,Saurabh Tiwary,255,50 Lakh,BATTER,0.0,0.0,MI,Unsold,Unsold,From Auction,Lakh,50,Saurabh_Tiwary,Saurabh
+256,256,Cottrell,Sheldon Cottrell,256,75 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,75,Sheldon_Cottrell,Sheldon
+257,257,Sharma,Ishant Sharma,257,1.5 Cr,BOWLER,0.0,0.0,DC,Unsold,Unsold,From Auction,Cr,1.5,Ishant_Sharma,Ishant
+258,258,Ahmad,Qais Ahmad,258,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Qais_Ahmad,Qais
+259,259,Chawla,Piyush Chawla,259,1 Cr,BOWLER,0.0,0.0,MI,Unsold,Unsold,From Auction,Cr,1,Piyush_Chawla,Piyush
+260,260,Shamsi,Tabraiz Shamsi,260,1 Cr,BOWLER,0.0,0.0,RR,Unsold,Unsold,From Auction,Cr,1,Tabraiz_Shamsi,Tabraiz
+261,261,Sodhi,Ish Sodhi,261,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Ish_Sodhi,Ish
+262,262,Baby,Sachin Baby,262,20 Lakh,BATTER,0.0,0.0,RCB,Unsold,Unsold,From Auction,Lakh,20,Sachin_Baby,Sachin
+263,263,Bhui,Ricky Bhui,263,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Ricky_Bhui,Ricky
+264,264,Rana,Himanshu Rana,264,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Himanshu_Rana,Himanshu
+265,265,Singh,Harnoor Singh,265,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Harnoor_Singh,Harnoor
+266,266,Singh,Himmat Singh,266,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Himmat_Singh,Himmat
+267,267,Singh,Virat Singh,267,20 Lakh,BATTER,0.0,0.0,SRH,Unsold,Unsold,From Auction,Lakh,20,Virat_Singh,Virat
+268,268,Nagwaswalla,Arzan Nagwaswalla,268,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Arzan_Nagwaswalla,Arzan
+269,269,Singh,Akash Singh,269,20 Lakh,BOWLER,0.0,0.0,RR,Unsold,Unsold,From Auction,Lakh,20,Akash_Singh,Akash
+270,270,Thakur,Yash Thakur,270,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Yash_Thakur,Yash
+271,271,Vats,Vasu Vats,271,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Vasu_Vats,Vasu
+272,272,Yousuf,Mujtaba Yousuf,272,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Mujtaba_Yousuf,Mujtaba
+273,273,Lynn,Chris Lynn,273,1.5 Cr,BATTER,0.0,0.0,MI,Unsold,Unsold,From Auction,Cr,1.5,Chris_Lynn,Chris
+274,274,Zadran,Najibullah Zadran,274,50 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Najibullah_Zadran,Najibullah
+275,275,Asalanka,Charith Asalanka,275,50 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Charith_Asalanka,Charith
+276,276,Garton,George Garton,276,50 Lakh,ALL-ROUNDER,0.0,0.0,RCB,Unsold,Unsold,From Auction,Lakh,50,George_Garton,George
+277,277,Das,Litton Das,277,50 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Litton_Das,Litton
+278,278,Dickwella,Niroshan Dickwella,278,50 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Niroshan_Dickwella,Niroshan
+279,279,Fletcher,Andre Fletcher,279,50 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Andre_Fletcher,Andre
+280,280,Gurbaz,Rahmanullah Gurbaz,280,50 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Rahmanullah_Gurbaz,Rahmanullah
+281,281,Hope,Shai Hope,281,50 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Shai_Hope,Shai
+282,282,Klaasen,Heinrich Klaasen,282,50 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Heinrich_Klaasen,Heinrich
+283,283,Mcdermott,Ben Mcdermott,283,50 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Ben_Mcdermott,Ben
+284,284,Mendis,Kusal Mendis,284,50 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Kusal_Mendis,Kusal
+285,285,Perera,Kusal Perera,285,50 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Kusal_Perera,Kusal
+286,286,Philippe,Joshua Philippe,286,1 Cr,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Cr,1,Joshua_Philippe,Joshua
+287,287,Topley,Reece Topley,287,75 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,75,Reece_Topley,Reece
+288,288,Tye,Andrew Tye,288,1 Cr,BOWLER,0.0,0.0,RR,Unsold,Unsold,From Auction,Cr,1,Andrew_Tye,Andrew
+289,289,Warrier,Sandeep Warrier,289,50 Lakh,BOWLER,0.0,0.0,KKR,Unsold,Unsold,From Auction,Lakh,50,Sandeep_Warrier,Sandeep
+290,290,Astle,Todd Astle,290,75 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,75,Todd_Astle,Todd
+291,291,Dhananjaya,Akila Dhananjaya,291,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Akila_Dhananjaya,Akila
+292,292,Khan,Zahir Khan,292,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Zahir_Khan,Zahir
+293,293,Maharaj,Keshav Maharaj,293,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Keshav_Maharaj,Keshav
+294,294,Salamkheil,Waqar Salamkheil,294,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Waqar_Salamkheil,Waqar
+295,295,Sharma,Rahul Sharma,295,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Rahul_Sharma,Rahul
+296,296,Walsh,Hayden Walsh,296,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Hayden_Walsh,Hayden
+297,297,Agarwal,Tanmay Agarwal,297,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Tanmay_Agarwal,Tanmay
+298,298,Chauhan,Shivam Chauhan,298,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Shivam_Chauhan,Shivam
+299,299,Gangta,Nikhil Gangta,299,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Nikhil_Gangta,Nikhil
+300,300,Kadam,Rohan Kadam,300,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Rohan_Kadam,Rohan
+301,301,Kohler-Cadmore,Tom Kohler-Cadmore,301,40 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,40,Tom_Kohler-Cadmore,Tom
+302,302,Panchal,Priyank Panchal,302,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Priyank_Panchal,Priyank
+303,303,Rizvi,Sameer Rizvi,303,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Sameer_Rizvi,Sameer
+304,304,Roy_Chowdhury,Ritwik Roy Chowdhury,304,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Ritwik_Roy_Chowdhury,Ritwik
+305,305,Wankhade,Apoorv Wankhade,305,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Apoorv_Wankhade,Apoorv
+306,306,Ankolekar,Atharva Ankolekar,306,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Atharva_Ankolekar,Atharva
+307,307,Thyagarajan,Tanay Thyagarajan,307,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Tanay_Thyagarajan,Tanay
+308,308,Bains,Ankush Bains,308,20 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Ankush_Bains,Ankush
+309,309,Chopra,Prashant Chopra,309,20 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Prashant_Chopra,Prashant
+310,310,Devdhar,Kedar Devdhar,310,20 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Kedar_Devdhar,Kedar
+311,311,Goswami,Shreevats Goswami,311,20 Lakh,WICKETKEEPER,0.0,0.0,SRH,Unsold,Unsold,From Auction,Lakh,20,Shreevats_Goswami,Shreevats
+312,312,Nath,Akshdeep Nath,312,20 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Akshdeep_Nath,Akshdeep
+313,313,Tare,Aditya Tare,313,20 Lakh,WICKETKEEPER,0.0,0.0,MI,Unsold,Unsold,From Auction,Lakh,20,Aditya_Tare,Aditya
+314,314,Singh_Yadav,Upendra Singh Yadav,314,20 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Upendra_Singh_Yadav,Upendra
+315,315,Dwarshuis,Ben Dwarshuis,315,30 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,30,Ben_Dwarshuis,Ben
+316,316,Jaswal,Pankaj Jaswal,316,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Pankaj_Jaswal,Pankaj
+317,317,Hussain_Meriwala,Lukman Hussain Meriwala,317,20 Lakh,BOWLER,0.0,0.0,DC,Unsold,Unsold,From Auction,Lakh,20,Lukman_Hussain_Meriwala,Lukman
+318,318,Vijay_Kumar,Vyshak Vijay Kumar,318,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Vyshak_Vijay_Kumar,Vyshak
+319,319,Ansari,Zeeshan Ansari,319,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Zeeshan_Ansari,Zeeshan
+320,320,Chudasama,Yuvraj Chudasama,320,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Yuvraj_Chudasama,Yuvraj
+321,321,Jadeja,Dharmendrasinh Jadeja,321,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Dharmendrasinh_Jadeja,Dharmendrasinh
+322,322,Kense,Khrievitso Kense,322,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Khrievitso_Kense,Khrievitso
+323,323,Balwant_Rai,Prince Balwant Rai,323,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Prince_Balwant_Rai,Prince
+324,324,Sahu,Pardeep Sahu,324,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Pardeep_Sahu,Pardeep
+325,325,Saxena,Jalaj Saxena,325,30 Lakh,BOWLER,0.0,0.0,PBKS,Unsold,Unsold,From Auction,Lakh,30,Jalaj_Saxena,Jalaj
+326,326,Sudhesan,Midhun Sudhesan,326,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Midhun_Sudhesan,Midhun
+327,327,Guptill,Martin Guptill,327,75 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,75,Martin_Guptill,Martin
+328,328,Khawaja,Usman Khawaja,328,1.5 Cr,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Cr,1.5,Usman_Khawaja,Usman
+329,329,King,Brandon King,329,50 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Brandon_King,Brandon
+330,330,Malan,Janneman Malan,330,50 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Janneman_Malan,Janneman
+331,331,Rossouw,Rilee Rossouw,331,1 Cr,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Cr,1,Rilee_Rossouw,Rilee
+332,332,Stirling,Paul Stirling,332,50 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Paul_Stirling,Paul
+333,333,Vihari,Hanuma Vihari,333,50 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Hanuma_Vihari,Hanuma
+334,334,Vince,James Vince,334,2 Cr,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Cr,2,James_Vince,James
+335,335,Zazai,Hazratullah Zazai,335,50 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Hazratullah_Zazai,Hazratullah
+336,336,Chase,Roston Chase,336,1 Cr,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Cr,1,Roston_Chase,Roston
+337,337,Cutting,Ben Cutting,337,75 Lakh,ALL-ROUNDER,0.0,0.0,KKR,Unsold,Unsold,From Auction,Lakh,75,Ben_Cutting,Ben
+338,338,Gregory,Lewis Gregory,338,1.5 Cr,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Cr,1.5,Lewis_Gregory,Lewis
+339,339,Henriques,Moises Henriques,339,1 Cr,ALL-ROUNDER,0.0,0.0,PBKS,Unsold,Unsold,From Auction,Cr,1,Moises_Henriques,Moises
+340,340,Hosein,Akeal Hosein,340,50 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Akeal_Hosein,Akeal
+341,341,Janat,Karim Janat,341,50 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Karim_Janat,Karim
+342,342,Kuggeleijn,Scott Kuggeleijn,342,75 Lakh,ALL-ROUNDER,0.0,0.0,RCB,Unsold,Unsold,From Auction,Lakh,75,Scott_Kuggeleijn,Scott
+343,343,Negi,Pawan Negi,343,50 Lakh,ALL-ROUNDER,0.0,0.0,KKR,Unsold,Unsold,From Auction,Lakh,50,Pawan_Negi,Pawan
+344,344,Ahmed,Taskin Ahmed,344,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Taskin_Ahmed,Taskin
+345,345,De_Lange,Marchant De Lange,345,2 Cr,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Cr,2,Marchant_De_Lange,Marchant
+346,346,Kulkarni,Dhawal Kulkarni,346,75 Lakh,BOWLER,0.0,0.0,MI,Unsold,Unsold,From Auction,Lakh,75,Dhawal_Kulkarni,Dhawal
+347,347,Mahmood,Saqib Mahmood,347,2 Cr,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Cr,2,Saqib_Mahmood,Saqib
+348,348,Richardson,Kane Richardson,348,1.5 Cr,BOWLER,0.0,0.0,RCB,Unsold,Unsold,From Auction,Cr,1.5,Kane_Richardson,Kane
+349,349,Ul_Haq,Naveen Ul Haq,349,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Naveen_Ul_Haq,Naveen
+350,350,Bhatia,Harpreet Bhatia,350,40 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,40,Harpreet_Bhatia,Harpreet
+351,351,Chatterjee,Sudip Chatterjee,351,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Sudip_Chatterjee,Sudip
+352,352,Dalal,Hiten Dalal,352,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Hiten_Dalal,Hiten
+353,353,Easwaran,Abhimanyu Easwaran,353,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Abhimanyu_Easwaran,Abhimanyu
+354,354,Evans,Laurie Evans,354,40 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,40,Laurie_Evans,Laurie
+355,355,Gahlaut,Rahul Gahlaut,355,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Rahul_Gahlaut,Rahul
+356,356,Khare,Amandeep Khare,356,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Amandeep_Khare,Amandeep
+357,357,Rawat,Mayank Rawat,357,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Mayank_Rawat,Mayank
+358,358,Shorey,Dhruv Shorey,358,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Dhruv_Shorey,Dhruv
+359,359,Kerr,Hayden Kerr,359,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Hayden_Kerr,Hayden
+360,360,Kumar,Saurabh Kumar,360,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Saurabh_Kumar,Saurabh
+361,361,Mulani,Shams Mulani,361,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Shams_Mulani,Shams
+362,362,Patel,Dhruv Patel,362,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Dhruv_Patel,Dhruv
+363,363,Sheth,Atit Sheth,363,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Atit_Sheth,Atit
+364,364,Singh,Utkarsh Singh,364,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Utkarsh_Singh,Utkarsh
+365,365,Wiese,David Wiese,365,50 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,David_Wiese,David
+366,366,Ahmad,Kaif Ahmad,366,20 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Kaif_Ahmad,Kaif
+367,367,Arora,Shubhum Arora,367,20 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Shubhum_Arora,Shubhum
+368,368,Karthick,Arun Karthick,368,40 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,40,Arun_Karthick,Arun
+369,369,Kerkar,Eknath Kerkar,369,20 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Eknath_Kerkar,Eknath
+370,370,Lewis,Kennar Lewis,370,40 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,40,Kennar_Lewis,Kennar
+371,371,Naik,Nikhil Naik,371,20 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Nikhil_Naik,Nikhil
+372,372,Patel,Urvil Patel,372,20 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Urvil_Patel,Urvil
+373,373,Sharath,B.R. Sharath,373,20 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,B.R._Sharath,B.R.
+374,374,Shrijith,K.L. Shrijith,374,20 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,K.L._Shrijith,K.L.
+375,375,Avasthi,Mohit Avasthi,375,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Mohit_Avasthi,Mohit
+376,376,Mishra,Sushant Mishra,376,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Sushant_Mishra,Sushant
+377,377,Pathirana,Matheesha Pathirana,377,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Matheesha_Pathirana,Matheesha
+378,378,Periyasamy,G Periyasamy,378,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,G_Periyasamy,G
+379,379,Reddy,M.Harishankar Reddy,379,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,M.Harishankar_Reddy,M.Harishankar
+380,380,Silambarasan,R. Silambarasan,380,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,R._Silambarasan,R.
+381,381,Thakare,Aditya Thakare,381,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Aditya_Thakare,Aditya
+382,382,Ul_Haq,Tanveer Ul Haq,382,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Tanveer_Ul_Haq,Tanveer
+383,383,Yarra,Prithviraj Yarra,383,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Prithviraj_Yarra,Prithviraj
+384,384,Bachhav,Satyajeet Bachhav,384,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Satyajeet_Bachhav,Satyajeet
+385,385,Gandhi,Chintal Gandhi,385,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Chintal_Gandhi,Chintal
+386,386,Lintott,Jacob Lintott,386,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Jacob_Lintott,Jacob
+387,387,Naveed,Izharulhuq Naveed,387,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Izharulhuq_Naveed,Izharulhuq
+388,388,Sangha,Tanveer Sangha,388,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Tanveer_Sangha,Tanveer
+389,389,Suthar,Manav Suthar,389,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Manav_Suthar,Manav
+390,390,Tandon,Milind Tandon,390,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Milind_Tandon,Milind
+391,391,Udeshi,Sagar Udeshi,391,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Sagar_Udeshi,Sagar
+392,392,Wadhwani,Kushaal Wadhwani,392,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Kushaal_Wadhwani,Kushaal
+393,393,Wakhare,Akshay Wakhare,393,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Akshay_Wakhare,Akshay
+394,394,Bravo,Darren Bravo,394,75 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,75,Darren_Bravo,Darren
+395,395,Brooks,Shamrah Brooks,395,50 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Shamrah_Brooks,Shamrah
+396,396,Fernando,Avishka Fernando,396,50 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Avishka_Fernando,Avishka
+397,397,Hamza,Zubayr Hamza,397,50 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Zubayr_Hamza,Zubayr
+398,398,Nissaanka,Pathum Nissaanka,398,50 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Pathum_Nissaanka,Pathum
+399,399,Patterson,Kurtis Patterson,399,50 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Kurtis_Patterson,Kurtis
+400,400,Shahidi,Hashmatullah Shahidi,400,50 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Hashmatullah_Shahidi,Hashmatullah
+401,401,Tiwary,Manoj Tiwary,401,50 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Manoj_Tiwary,Manoj
+402,402,Agar,Ashton Agar,402,2 Cr,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Cr,2,Ashton_Agar,Ashton
+403,403,Brath15000000e,Carlos Brath15000000e,403,75 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,75,Carlos_Brath15000000e,Carlos
+404,404,Jadhav,Kedar Jadhav,404,1 Cr,ALL-ROUNDER,0.0,0.0,SRH,Unsold,Unsold,From Auction,Cr,1,Kedar_Jadhav,Kedar
+405,405,Munro,Colin Munro,405,1.5 Cr,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Cr,1.5,Colin_Munro,Colin
+406,406,Naib,Gulbadin Naib,406,50 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Gulbadin_Naib,Gulbadin
+407,407,Paul,Keemo Paul,407,75 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,75,Keemo_Paul,Keemo
+408,408,Rasool,Parvez Rasool,408,50 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Parvez_Rasool,Parvez
+409,409,Shanaka,Dasun Shanaka,409,50 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Dasun_Shanaka,Dasun
+410,410,Agar,Wesley Agar,410,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Wesley_Agar,Wesley
+411,411,Islam,Shoriful Islam,411,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Shoriful_Islam,Shoriful
+412,412,Little,Josh Little,412,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Josh_Little,Josh
+413,413,Muzarabani,Blessing Muzarabani,413,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Blessing_Muzarabani,Blessing
+414,414,Seales,Jayden Seales,414,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Jayden_Seales,Jayden
+415,415,Sharma,Mohit Sharma,415,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Mohit_Sharma,Mohit
+416,416,Sran,Barinder Sran,416,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Barinder_Sran,Barinder
+417,417,Stanlake,Billy Stanlake,417,75 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,75,Billy_Stanlake,Billy
+418,418,Wagner,Neil Wagner,418,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Neil_Wagner,Neil
+419,419,Iqbal,Qamran Iqbal,419,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Qamran_Iqbal,Qamran
+420,420,Jaggi,Ishank Jaggi,420,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Ishank_Jaggi,Ishank
+421,421,Kunnummal,Rohan Kunnummal,421,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Rohan_Kunnummal,Rohan
+422,422,Mishra,Tanmay Mishra,422,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Tanmay_Mishra,Tanmay
+423,423,Nahar,Yash Nahar,423,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Yash_Nahar,Yash
+424,424,Singh_Rohilla,Shubham Singh Rohilla,424,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Shubham_Singh_Rohilla,Shubham
+425,425,Ross,Alex Ross,425,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Alex_Ross,Alex
+426,426,Shaikh,Naushad Shaikh,426,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Naushad_Shaikh,Naushad
+427,427,Aparajith,Baba Aparajith,427,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Baba_Aparajith,Baba
+428,428,Barman,Prayas Barman,428,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Prayas_Barman,Prayas
+429,429,Charak,Yudhvir Charak,429,20 Lakh,ALL-ROUNDER,0.0,0.0,MI,Unsold,Unsold,From Auction,Lakh,20,Yudhvir_Charak,Yudhvir
+430,430,Hegde,Shubhang Hegde,430,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Shubhang_Hegde,Shubhang
+431,431,Kalaria,Roosh Kalaria,431,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Roosh_Kalaria,Roosh
+432,432,Kotian,Tanush Kotian,432,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Tanush_Kotian,Tanush
+433,433,Tambe,Kaushal Tambe,433,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Kaushal_Tambe,Kaushal
+434,434,Vashisth,Shivank Vashisth,434,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Shivank_Vashisth,Shivank
+435,435,Chandrol,Rahul Chandrol,435,20 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Rahul_Chandrol,Rahul
+436,436,Desai,Harvik Desai,436,20 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Harvik_Desai,Harvik
+437,437,Fletcher,Cam Fletcher,437,20 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Cam_Fletcher,Cam
+438,438,Gohel,Tarang Gohel,438,20 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Tarang_Gohel,Tarang
+439,439,Makaya,Fazil Makaya,439,20 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Fazil_Makaya,Fazil
+440,440,Rickelton,Ryan Rickelton,440,20 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Ryan_Rickelton,Ryan
+441,441,Kumar_Tomar,Sandeep Kumar Tomar,441,20 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Sandeep_Kumar_Tomar,Sandeep
+442,442,Wath,Siddhesh Wath,442,20 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Siddhesh_Wath,Siddhesh
+443,443,Cheepurupalli,Stephen Cheepurupalli,443,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Stephen_Cheepurupalli,Stephen
+444,444,Choudhary,Aniket Choudhary,444,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Aniket_Choudhary,Aniket
+445,445,Kak,Kartikeya Kak,445,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Kartikeya_Kak,Kartikeya
+446,446,Khan,Ali Khan,446,40 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,40,Ali_Khan,Ali
+447,447,Khejroliya,Kulwant Khejroliya,447,20 Lakh,BOWLER,0.0,0.0,DC,Unsold,Unsold,From Auction,Lakh,20,Kulwant_Khejroliya,Kulwant
+448,448,More,Ronit More,448,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Ronit_More,Ronit
+449,449,Nidheesh,M Nidheesh,449,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,M_Nidheesh,M
+450,450,Pathan,Babasafi Pathan,450,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Babasafi_Pathan,Babasafi
+451,451,Patil,Vidyadhar Patil,451,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Vidyadhar_Patil,Vidyadhar
+452,452,Kumar_Singh,Mukesh Kumar Singh,452,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Mukesh_Kumar_Singh,Mukesh
+453,453,Alexandar,R. Alexandar,453,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,R._Alexandar,R.
+454,454,Ashok,Adithya Ashok,454,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Adithya_Ashok,Adithya
+455,455,Dhankhar,Jasmer Dhankhar,455,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Jasmer_Dhankhar,Jasmer
+456,456,Dutta,Prerit Dutta,456,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Prerit_Dutta,Prerit
+457,457,Russ_Jaggesar,Jon Russ Jaggesar,457,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Jon_Russ_Jaggesar,Jon
+458,458,Kishan_Kumar,S. Kishan Kumar,458,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,S._Kishan_Kumar,S.
+459,459,Koththigoda,Kevin Koththigoda,459,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Kevin_Koththigoda,Kevin
+460,460,Wabale,Swaraj Wabale,460,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Swaraj_Wabale,Swaraj
+461,461,Campher,Curtis Campher,461,50 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Curtis_Campher,Curtis
+462,462,De_Grandhomme,Colin De Grandhomme,462,1 Cr,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Cr,1,Colin_De_Grandhomme,Colin
+463,463,Faulkner,James Faulkner,463,1 Cr,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Cr,1,James_Faulkner,James
+464,464,Overton,Craig Overton,464,2 Cr,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Cr,2,Craig_Overton,Craig
+465,465,Parnell,Wayne Parnell,465,50 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Wayne_Parnell,Wayne
+466,466,Patel,Samit Patel,466,50 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Samit_Patel,Samit
+467,467,Perera,Thisara Perera,467,50 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Thisara_Perera,Thisara
+468,468,Short,Darcy Short,468,1 Cr,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Cr,1,Darcy_Short,Darcy
+469,469,Vijay,Murali Vijay,469,50 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Murali_Vijay,Murali
+470,470,Wildermuth,Jack Wildermuth,470,50 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Jack_Wildermuth,Jack
+471,471,Bennett,Hamish Bennett,471,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Hamish_Bennett,Hamish
+472,472,Dupavillon,Daryn Dupavillon,472,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Daryn_Dupavillon,Daryn
+473,473,Edwards,Fidel Edwards,473,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Fidel_Edwards,Fidel
+474,474,Hassan,Hamid Hassan,474,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Hamid_Hassan,Hamid
+475,475,Kumara,Lahiru Kumara,475,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Lahiru_Kumara,Lahiru
+476,476,Paris,Joel Paris,476,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Joel_Paris,Joel
+477,477,Sreesanth,S. Sreesanth,477,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,S._Sreesanth,S.
+478,478,Thomas,Oshane Thomas,478,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Oshane_Thomas,Oshane
+479,479,Tickner,Blair Tickner,479,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Blair_Tickner,Blair
+480,480,Udana,Isuru Udana,480,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Isuru_Udana,Isuru
+481,481,Ferreira,Donavon Ferreira,481,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Donavon_Ferreira,Donavon
+482,482,Lalwani,Bhupen Lalwani,482,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Bhupen_Lalwani,Bhupen
+483,483,Malik,Henan Malik,483,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Henan_Malik,Henan
+484,484,Mann,Pukhraj Mann,484,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Pukhraj_Mann,Pukhraj
+485,485,Rawat,Shashwat Rawat,485,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Shashwat_Rawat,Shashwat
+486,486,Weatherald,Jake Weatherald,486,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Jake_Weatherald,Jake
+487,487,Coetzee,Gerald Coetzee,487,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Gerald_Coetzee,Gerald
+488,488,Karnewar,Akshay Karnewar,488,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Akshay_Karnewar,Akshay
+489,489,Kumar,Sumit Kumar,489,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Sumit_Kumar,Sumit
+490,490,Mushtaq,Abid Mushtaq,490,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Abid_Mushtaq,Abid
+491,491,Muzaffar,Lone Muzaffar,491,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Lone_Muzaffar,Lone
+492,492,Rathva,Ninad Rathva,492,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Ninad_Rathva,Ninad
+493,493,Roger,Shoun Roger,493,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Shoun_Roger,Shoun
+494,494,Bhambhu,Jaideep Bhambhu,494,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Jaideep_Bhambhu,Jaideep
+495,495,Burger,Nandre Burger,495,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Nandre_Burger,Nandre
+496,496,Kelly,Matt Kelly,496,30 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,30,Matt_Kelly,Matt
+497,497,Koushik,V Koushik,497,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,V_Koushik,V
+498,498,Madhwal,Akash Madhwal,498,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Akash_Madhwal,Akash
+500,500,Raj,Anuj Raj,500,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Anuj_Raj,Anuj
+501,501,Saket,Abhijeet Saket,501,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Abhijeet_Saket,Abhijeet
+502,502,Shukla,Rahul Shukla,502,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Rahul_Shukla,Rahul
+503,503,Thushara,Nuwan Thushara,503,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Nuwan_Thushara,Nuwan
+504,504,Adnair,Mark Adnair,504,50 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Mark_Adnair,Mark
+505,505,Cartwright,Hilton Cartwright,505,50 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Hilton_Cartwright,Hilton
+506,506,Delany,Gareth Delany,506,50 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Gareth_Delany,Gareth
+507,507,Gunatilaka,Danushka Gunatilaka,507,50 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Danushka_Gunatilaka,Danushka
+508,508,Kitchen,Anaru Kitchen,508,50 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Anaru_Kitchen,Anaru
+509,509,Lakshan,Dhananjaya Lakshan,509,50 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Dhananjaya_Lakshan,Dhananjaya
+510,510,Magala,Sisanda Magala,510,50 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Sisanda_Magala,Sisanda
+511,511,Phehlukwayo,Andile Phehlukwayo,511,50 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Andile_Phehlukwayo,Andile
+512,512,Prasanna,Seekkuge Prasanna,512,50 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Seekkuge_Prasanna,Seekkuge
+513,513,Reifer,Raymon Reifer,513,50 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Raymon_Reifer,Raymon
+514,514,Ali,Amit Ali,514,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Amit_Ali,Amit
+515,515,Bishnoi,Chaitanya Bishnoi,515,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Chaitanya_Bishnoi,Chaitanya
+516,516,Dagar,Mayank Dagar,516,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Mayank_Dagar,Mayank
+517,517,Pretorius,Migael Pretorius,517,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Migael_Pretorius,Migael
+519,519,Singh,Pratyush Singh,519,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Pratyush_Singh,Pratyush
+520,520,Singh,Sanvir Singh,520,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Sanvir_Singh,Sanvir
+521,521,Soni,Dhrushant Soni,521,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Dhrushant_Soni,Dhrushant
+522,522,Venkatesh,M Venkatesh,522,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,M_Venkatesh,M
+523,523,Ayyappa,Bandaru Ayyappa,523,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Bandaru_Ayyappa,Bandaru
+524,524,Singh_Brar,Gurnoor Singh Brar,524,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Gurnoor_Singh_Brar,Gurnoor
+525,525,Choudhary,Akash Choudhary,525,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Akash_Choudhary,Akash
+526,526,Jangra,Mohit Jangra,526,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Mohit_Jangra,Mohit
+527,527,Khan,Aaqib Khan,527,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Aaqib_Khan,Aaqib
+528,528,Trumpelmann,Ruben Trumpelmann,528,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Ruben_Trumpelmann,Ruben
+529,529,Wheal,Brad Wheal,529,50 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,50,Brad_Wheal,Brad
+531,531,Dar,Auqib Dar,531,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Auqib_Dar,Auqib
+532,532,Gandhi,Chirag Gandhi,532,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Chirag_Gandhi,Chirag
+533,533,Green,Chris Green,533,40 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,40,Chris_Green,Chris
+534,534,Joseph,Sijomon Joseph,534,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Sijomon_Joseph,Sijomon
+535,535,Joshi,Anirudha Joshi,535,20 Lakh,ALL-ROUNDER,0.0,0.0,DC,Unsold,Unsold,From Auction,Lakh,20,Anirudha_Joshi,Anirudha
+536,536,Sharma,Shubham Sharma,536,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Shubham_Sharma,Shubham
+538,538,Guleria,Arpit Guleria,538,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Arpit_Guleria,Arpit
+539,539,Krishna,Vipul Krishna,539,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Vipul_Krishna,Vipul
+540,540,Patel,Safvan Patel,540,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Safvan_Patel,Safvan
+541,541,Readdi,Chinntla Readdi,541,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Chinntla_Readdi,Chinntla
+542,542,Reddy,Manish Reddy,542,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Manish_Reddy,Manish
+543,543,Sharma,Ravi Sharma,543,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Ravi_Sharma,Ravi
+545,545,Bosch,Corbin Bosch,545,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Corbin_Bosch,Corbin
+546,546,McAndrew,Nathan McAndrew,546,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Nathan_McAndrew,Nathan
+547,547,Pathania,Diwesh Pathania,547,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Diwesh_Pathania,Diwesh
+548,548,Ranjane,Shubham Ranjane,548,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Shubham_Ranjane,Shubham
+549,549,Rogers,Tom Rogers,549,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Tom_Rogers,Tom
+550,550,Smit,Johannes Smit,550,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Johannes_Smit,Johannes
+551,551,Trivedi,Sagar Trivedi,551,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Sagar_Trivedi,Sagar
+552,552,Tyagi,Harsh Tyagi,552,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Harsh_Tyagi,Harsh
+553,553,Vivek,R. Vivek,553,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,R._Vivek,R.
+554,554,Yadav,R.Sonu Yadav,554,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,R.Sonu_Yadav,R.Sonu
+555,555,Athisayaraj,V. Athisayaraj,555,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,V._Athisayaraj,V.
+556,556,Baartman,Ottneil Baartman,556,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Ottneil_Baartman,Ottneil
+557,557,Darshan,M.B. Darshan,557,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,M.B._Darshan,M.B.
+558,558,Gowtham,V. Gowtham,558,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,V._Gowtham,V.
+559,559,Gumede,Khwezi Gumede,559,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Khwezi_Gumede,Khwezi
+560,560,Guthrie,Liam Guthrie,560,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Liam_Guthrie,Liam
+561,561,Hatcher,Liam Hatcher,561,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Liam_Hatcher,Liam
+562,562,Bista,Jay Bista,562,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Jay_Bista,Jay
+563,563,Chuahan,Saurav Chuahan,563,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Saurav_Chuahan,Saurav
+564,564,Dhillon,Tajinder Dhillon,564,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Tajinder_Dhillon,Tajinder
+565,565,Negi,Dikshanshu Negi,565,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Dikshanshu_Negi,Dikshanshu
+566,566,Raut,Abhishek Raut,566,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Abhishek_Raut,Abhishek
+567,567,Sasikanth,K.V. Sasikanth,567,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,K.V._Sasikanth,K.V.
+568,568,Sharma,Bharat Sharma,568,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Bharat_Sharma,Bharat
+570,570,Yadav,Amit Yadav,570,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Amit_Yadav,Amit
+571,571,Bhandage,Manoj Bhandage,571,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Manoj_Bhandage,Manoj
+572,572,Chaprana,Arun Chaprana,572,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Arun_Chaprana,Arun
+573,573,Dev_Goud,Ajay Dev Goud,573,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Ajay_Dev_Goud,Ajay
+574,574,Hinganekar,Divyang Hinganekar,574,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Divyang_Hinganekar,Divyang
+575,575,Kazi,Azim Kazi,575,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Azim_Kazi,Azim
+576,576,Nayak,Sujit Nayak,576,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Sujit_Nayak,Sujit
+577,577,Sahani,Parth Sahani,577,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Parth_Sahani,Parth
+578,578,Sharma,Ashutosh Sharma,578,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Ashutosh_Sharma,Ashutosh
+579,579,Sharma,Vivrant Sharma,579,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Vivrant_Sharma,Vivrant
+580,580,Kartikeya_Singh,Kumar Kartikeya Singh,580,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Kumar_Kartikeya_Singh,Kumar
+581,581,Chauhan,Ravi Chauhan,581,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Ravi_Chauhan,Ravi
+582,582,Ghafari,Shafiqullah Ghafari,582,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Shafiqullah_Ghafari,Shafiqullah
+583,583,Mohammed,M. Mohammed,583,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,M._Mohammed,M.
+584,584,Narang,Pulkit Narang,584,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Pulkit_Narang,Pulkit
+585,585,Paul,Pradosh Paul,585,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Pradosh_Paul,Pradosh
+586,586,Singh_Rathore,Pushpendra Singh Rathore,586,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Pushpendra_Singh_Rathore,Pushpendra
+587,587,Sangha,Jason Sangha,587,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Jason_Sangha,Jason
+588,588,Tyagi,Purnank Tyagi,588,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Purnank_Tyagi,Purnank
+589,589,Vyas,Samarth Vyas,589,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Samarth_Vyas,Samarth
+590,590,Jansen,Duan Jansen,590,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Duan_Jansen,Duan
+591,591,Lakra,Dev Lakra,591,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Dev_Lakra,Dev
+592,592,Mandal,Ajay Mandal,592,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Ajay_Mandal,Ajay
+593,593,Raja,Lakhan Raja,593,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Lakhan_Raja,Lakhan
+594,594,Reddy,Girinath Reddy,594,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Girinath_Reddy,Girinath
+595,595,Sharma,Siddhant Sharma,595,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Siddhant_Sharma,Siddhant
+596,596,Short,Matthew Short,596,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Matthew_Short,Matthew
+597,597,Thakar,Saurin Thakar,597,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Saurin_Thakar,Saurin
+598,598,Young,Nyeem Young,598,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Nyeem_Young,Nyeem
+599,599,Chaudhary,Yuvraj Chaudhary,599,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Yuvraj_Chaudhary,Yuvraj
+600,600,Dafedar,Khizar Dafedar,600,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Khizar_Dafedar,Khizar
+601,601,Dhiwan,Sahil Dhiwan,601,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Sahil_Dhiwan,Sahil
+602,602,Gupta,Arjit Gupta,602,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Arjit_Gupta,Arjit
+603,603,Jaiswal,Mickil Jaiswal,603,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Mickil_Jaiswal,Mickil
+604,604,John,Ryan John,604,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Ryan_John,Ryan
+605,605,Kousik,J. Kousik,605,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,J._Kousik,J.
+606,606,Pal,Jitender Pal,606,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Jitender_Pal,Jitender
+607,607,Sidhu,Jonty Sidhu,607,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Jonty_Sidhu,Jonty
+608,608,Singh,Yashovardhan Singh,608,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Yashovardhan_Singh,Yashovardhan
+609,609,Swanepoel,Beyers Swanepoel,609,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Beyers_Swanepoel,Beyers
+610,610,Vijayran,Pranshu Vijayran,610,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Pranshu_Vijayran,Pranshu
+611,611,Afridi,Ishan Afridi,611,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Ishan_Afridi,Ishan
+612,612,Afridi,Mohammed Afridi,612,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Mohammed_Afridi,Mohammed
+613,613,Agrawal,Prerit Agrawal,613,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Prerit_Agrawal,Prerit
+614,614,Cahill,Aidan Cahill,614,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Aidan_Cahill,Aidan
+615,615,Deyal,Mark Deyal,615,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Mark_Deyal,Mark
+616,616,Rajagopal,Nidhish Rajagopal,616,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Nidhish_Rajagopal,Nidhish
+617,617,Sandeep,Bavanaka Sandeep,617,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Bavanaka_Sandeep,Bavanaka
+618,618,Sharif,Safyaan Sharif,618,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Safyaan_Sharif,Safyaan
+619,619,Shipley,Henry Shipley,619,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Henry_Shipley,Henry
+620,620,Swaminathan,Maxwell Swaminathan,620,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Maxwell_Swaminathan,Maxwell
+621,621,Van_Dyk,Johan Van Dyk,621,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Johan_Van_Dyk,Johan
+622,622,Wellalage,Dunith Wellalage,622,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Dunith_Wellalage,Dunith
+623,623,Ayachi,Agnivesh Ayachi,623,20 Lakh,ALL-ROUNDER,0.0,0.0,PBKS,Unsold,Unsold,From Auction,Lakh,20,Agnivesh_Ayachi,Agnivesh
+624,624,Rana,Rohan Rana,624,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Rohan_Rana,Rohan
+625,625,Reddy,Nitish Reddy,625,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Nitish_Reddy,Nitish
+626,626,Tamore,Hardik Tamore,626,20 Lakh,WICKETKEEPER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Hardik_Tamore,Hardik
+627,627,Hirwani,Mihir Hirwani,627,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Mihir_Hirwani,Mihir
+628,628,Patil,Sairaj Patil,628,20 Lakh,BATTER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Sairaj_Patil,Sairaj
+629,629,Singh,Monu Singh,629,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Monu_Singh,Monu
+630,630,Radhakrishnan,Nivethan Radhakrishnan,630,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Nivethan_Radhakrishnan,Nivethan
+631,631,Morris,Lance Morris,631,20 Lakh,BOWLER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Lance_Morris,Lance
+632,632,Hardie,Aaron Hardie,632,20 Lakh,ALL-ROUNDER,0.0,0.0,Not Participated,Unsold,Unsold,From Auction,Lakh,20,Aaron_Hardie,Aaron
